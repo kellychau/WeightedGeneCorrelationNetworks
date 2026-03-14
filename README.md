@@ -1,4 +1,4 @@
-# Analysis Code for: Sex and tissue resolved co-expression networks reveal a female placental–brain axis protective against prenatal PCB exposure 
+# Code used in the publication: Sex and tissue resolved co-expression networks reveal a female placental–brain axis protective against prenatal PCB exposure 
 
 This code is released under the MIT License. See the LICENSE file for details. 
 All associated RNAseq data have been deposited in GEO accession GSE315769. 
