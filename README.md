@@ -9,12 +9,12 @@ Accepted at *Genome Biology* (2026)
 ## License and Data Availability
 This code is released under the MIT License. See the LICENSE file for details. All associated RNAseq data have been deposited in GEO accession GSE315769. 
 
-## 📘 Project Description
+## Project Description
 This repository includes scripts and workflows used to analyze transcriptomic data from embryonic brain and placenta following prenatal exposure to a human‑relevant PCB mixture. 
 
 ---
 
-## 🎯 Purpose of the Code
+## Purpose of the Code
 The code includes:
 
 - Weighted gene co‑expression network construction to identify modules of co‑regulated genes
